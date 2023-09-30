@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpath-entry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpath-entry exported="true" kind="lib" path="C:/Users/hp/Downloads/mysql-connector-j-8.1.0/mysqlDriver.jar"/>
+	<classpath-entry kind="output" path="bin"/>
+</classpath>

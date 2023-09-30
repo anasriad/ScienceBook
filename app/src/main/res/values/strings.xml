@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ScienceBook</string>
+    <string name="the_science_book">The Science Book</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="start">START</string>
+    <string name="question">Question</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="pts">pts</string>
+    <string name="_0">0</string>
+    <string name="check">Check</string>
+    <string name="your_final_score">Your Final Score</string>
+    <string name="excellent">Excellent</string>
+    <string name="exit">Exit</string>
+    <string name="add_question_for_future_player">Add Question For Future Player</string>
+    <string name="enter_question_below">Enter Question Below</string>
+    <string name="type_here">Type Here</string>
+    <string name="enter_its_answer">Enter Its Answer</string>
+    <string name="type">Type Here</string>
+    <string name="enter_its_points">Enter Its Points</string>
+    <string name="type_heree">Type Here</string>
+    <string name="submit">Submit</string>
+</resources>
